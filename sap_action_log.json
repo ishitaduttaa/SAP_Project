@@ -1,0 +1,178 @@
+[
+  {
+    "time": "04:18:16",
+    "module": "PP",
+    "t_code": "CR02",
+    "action": "Reduce Work Center Capacity",
+    "details": "Worker W001 -25%",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:16",
+    "module": "PP/PM",
+    "t_code": "IW21",
+    "action": "Log Downtime Notification",
+    "details": "Worker W001",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:16",
+    "module": "MM",
+    "t_code": "MB21",
+    "action": "Update Inventory Reservation",
+    "details": "Worker W001",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:16",
+    "module": "PP",
+    "t_code": "CR02",
+    "action": "Reduce Work Center Capacity",
+    "details": "Worker W002 -25%",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:16",
+    "module": "PP/PM",
+    "t_code": "IW21",
+    "action": "Log Downtime Notification",
+    "details": "Worker W002",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:16",
+    "module": "MM",
+    "t_code": "MB21",
+    "action": "Update Inventory Reservation",
+    "details": "Worker W002",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:16",
+    "module": "PP",
+    "t_code": "CR02",
+    "action": "Reduce Work Center Capacity",
+    "details": "Worker W002 -25%",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:16",
+    "module": "PP/PM",
+    "t_code": "IW21",
+    "action": "Log Downtime Notification",
+    "details": "Worker W002",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:16",
+    "module": "MM",
+    "t_code": "MB21",
+    "action": "Update Inventory Reservation",
+    "details": "Worker W002",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "PP",
+    "t_code": "CO02",
+    "action": "Reschedule Production Order",
+    "details": "Worker W001 +3hrs",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "PP",
+    "t_code": "CM21",
+    "action": "Trigger Capacity Leveling",
+    "details": "KIIT_PLANT_1000",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "PP/PM",
+    "t_code": "IW21",
+    "action": "Log Downtime Notification",
+    "details": "Worker W001",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "MM",
+    "t_code": "MD01",
+    "action": "Re-run MRP",
+    "details": "KIIT_PLANT_1000",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "MM",
+    "t_code": "ME51N",
+    "action": "Create Purchase Requisition",
+    "details": "MAT-001",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "MM",
+    "t_code": "MB21",
+    "action": "Update Inventory Reservation",
+    "details": "Worker W001",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "MM",
+    "t_code": "MIGO",
+    "action": "Goods Movement Adjustment",
+    "details": "Qty adjusted",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "PP",
+    "t_code": "CR02",
+    "action": "Reduce Work Center Capacity",
+    "details": "Worker W001 -25%",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "PP/PM",
+    "t_code": "IW21",
+    "action": "Log Downtime Notification",
+    "details": "Worker W001",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "MM",
+    "t_code": "MB21",
+    "action": "Update Inventory Reservation",
+    "details": "Worker W001",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "PP",
+    "t_code": "CR02",
+    "action": "Reduce Work Center Capacity",
+    "details": "Worker W003 -25%",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "PP/PM",
+    "t_code": "IW21",
+    "action": "Log Downtime Notification",
+    "details": "Worker W003",
+    "status": "SIMULATED_Success"
+  },
+  {
+    "time": "04:18:25",
+    "module": "MM",
+    "t_code": "MB21",
+    "action": "Update Inventory Reservation",
+    "details": "Worker W003",
+    "status": "SIMULATED_Success"
+  }
+]
