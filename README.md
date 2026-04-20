@@ -1,13 +1,13 @@
-# SAP_Project
+# SAP Project
 AI-Based Worker Fatigue Detection with SAP PP & MM Integration for Automated Smart Manufacturing
 
 ## About
 This project detects worker fatigue using AI and automatically triggers SAP PP and MM actions to adjust production and materials.
 
 ## Files
-- `sap_PYTHON_working_code` — Main Python simulation
-- `sap_action_log` — SAP actions log output
-- `SAP implementation & ABAP code` — SAP step by step process and ABAP code
+- `sap_PYTHON_working_code` - Main Python simulation
+- `sap_action_log` - SAP actions log output
+- `SAP implementation & ABAP code` - SAP step by step process and ABAP code
 
 ## Tech Stack
 - Python, Scikit-learn
